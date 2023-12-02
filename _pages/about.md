@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+{% include base_path %}
+
 Hello, I'm Gu Tianshun, currently pursuing my master's degree form [the Key Research Institute of Yellow River Civilization and Sustainable Development](https://yrcsd.henu.edu.cn/), [Henan University](https://www.henu.edu.cn/). I am a third-year graduate student majoring in geography, focusing on research related to land use, flood risk, and urban resilience. Inspired by my academic pursuits, I have decided to establish my academic homepage. I am particularly interested in the exploration of spatiotemporal big data mining and the interpretability of machine learning models. Welcome fellow researchers in these areas to engage in discussions and collaborations！
 
 My academic background
