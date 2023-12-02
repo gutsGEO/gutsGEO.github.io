@@ -1,7 +1,7 @@
 ---
 title: "Locational Dynamics of Luxury Hotels in Shanghai Metropolis, China: A Spatial-Temporal Perspective"
 collection: publications
-permalink: /publication/2022-09-29-paper-remote sensing
+permalink: /publication/2022-09-29-paper-land
 excerpt: 'Keywords: luxury hotels location; spatial-temporal characteristics; influencing factors; Shanghai City'
 date: 2022-09-29
 venue: 'land'
