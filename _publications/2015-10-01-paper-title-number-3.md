@@ -1,15 +1,11 @@
 ---
-title: "Paper Title Number 3"
-collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+title: "暴雨灾害冲击下大城市社会脆弱性形成机制与韧性提升"
+collection: 科研项目
+permalink: /publication/2023-04-科研项目-河南省优青项目
+excerpt: '关键词：暴雨灾害；社会脆弱性; 随机森林；郑州市'
+date: 2023-04'
 ---
-This paper is about the number 3. The number 4 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
-
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+指导老师:赵宏波<br/>
+成员: 谷天顺/贾泽婷/徐晓曼/等<br/>
+河南大学黄河文明与可持续发展研究中心
