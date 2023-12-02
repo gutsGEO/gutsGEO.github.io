@@ -1,13 +1,13 @@
 ---
-title: "三生功能视角下郑开同城化时空差异、机制及优化研究"
-collection: 科研项目
-permalink: /publication/2022-12-科研项目-开封市哲学社会科学规划调研课题-ZXSKGH-2022-0833
-excerpt: '关键词：土地利用；同城化; 随机森林; 贝叶斯网络；开封市'
-date: 2022-12-22
-venue: '开封市哲学社会科学规划优秀调研课题壹等奖'
+title: "Identifying Spatiotemporal Heterogeneity of PM2.5 Concentrations and the Key Influencing Factors in the Middle and Lower Reaches of the Yellow River"
+collection: publications
+permalink: /publication/2022-05-31-paper-remote sensing
+excerpt: 'Keywords: PM2.5 concentrations; influencing factor; spatiotemporal heterogeneity; GTWR model; the middle and lower reaches of the Yellow River'
+date: 2022-05-31
+venue: 'remote sensing'
+paperurl: 'https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C467SBiOvrai6TdxYiSzCnOE4DdIn5fHRa7whAmAecdzvdhEf9I9nOP-XjXJEQ5_H_3Q4IPfIe1RZjNqHEJIezf0n9CBceMT090%3d&uniplatform=NZKPT'
+citation: '[1] Zhao, H.; Liu, Y.; Gu, T.; Zheng, H.; Wang, Z.; Yang, D. Identifying Spatiotemporal Heterogeneity of PM2.5 Concentrations and the Key Influencing Factors in the Middle and Lower Reaches of the Yellow River. Remote Sens. 2022, 14, 2643. https:// doi.org/10.3390/rs14112643 '
 ---
-“同城化”是 2005年《深圳2030城市发展策略》首次提出的概念，主要是指相邻的城市在生产、生活、生态空间（简称“三生”空间）上协同发展，具有扩展城市空间布局、促进要素区域流动、缩小地区发展差距、等积极作用。“三生”空间本质上是一种功能系统，它由于空间资源稀缺性和功能外溢性导致城市不同功能区为获取利益最大化而产生了冲突对立现象，严重阻碍了同城化进程。郑开同城化是中原城市群与郑州都市圈一体化建设的核心区和先行区，但由于种种原因, 郑开两市在改革开放之后发展极不平衡, 郑开地区作为河南省经济增长引擎的作用并未显现。“三生”功能空间的协调有序开发是推动郑开同城化的重要基础，客观准确的从“三生”功能视角来研究郑开同城化问题对于促进同城化进程、提高中原城市群影响力和推动河南省现代化建设具有重要的现实意义。 本课题：① 综合运用 POI 数据、遥感影像数据、年鉴统计数据和站点统计数，可以弥补以往研究中数据源地理空间属性不足的劣势，使得郑开同城化的评价结果更具客观性和科学性。② 从“三生”功能空间联动效应出发对郑开同城化进行研究，符合国土空间规划的要求，从城市功能区角度切入分析郑开同城化差异，弥补了当前研究的不足。③运用贝叶斯网络、随机森林等机器学习方法开展研究，弥补以往研究方法的不足。
+Fine particulate matter (PM2.5) is a harmful air pollutant that seriously affects public health and sustainable urban development. Previous studies analyzed the spatial pattern and driving factors of PM2.5 concentrations in different regions. However, the spatiotemporal heterogeneity of various influencing factors on PM2.5 was ignored. This study applies the geographically and temporally weighted regression (GTWR) model and geographic information system (GIS) analysis methods to investigate the spatiotemporal heterogeneity of PM2.5 concentrations and the influencing factors in the middle and lower reaches of the Yellow River from 2000 to 2017. The findings indicate that: (1) the annual average of PM2.5 concentrations in the middle and lower reaches of the Yellow River show an overall trend of first rising and then decreasing from 2000 to 2017. In addition, there are significant differences in inter-province PM2.5 pollution in the study area, the PM2.5 concentrations of Tianjin City, Shandong Province, and Henan Province were far higher than the overall mean value of the study area. (2) PM2.5 concentrations in western cities showed a declining trend, while it had a gradually rising trend in the middle and eastern cities of the study area. Meanwhile, the PM2.5 pollution showed the characteristics of path dependence and region locking. (3) the PM2.5 concentrations had significant spatial agglomeration characteristics from 2000 to 2017. The “High-High (H-H)” clusters were mainly concentrated in the southern Hebei Province and the northern Henan Province, and the “Low-Low (L-L)” clusters were concentrated in northwest marginal cities in the study area. (4) Theinfluencing factors of PM2.5 have significant spatiotemporal non-stationary characteristics, and there are obvious differences in the direction and intensity of socio-economic and natural factors. Overall, the variable of temperature is one of the most important natural conditions to play a positive impacton PM2.5, while elevation makes a strong negative impact on PM2.5. Car ownership and population density are the main socio-economic influencing factors which make a positive effect on PM2.5, while the variable of foreign direct investment (FDI) plays a strong negative effect on PM2.5. The results of this study are useful for understanding the spatiotemporal distribution characteristics of PM2.5 concentrations and formulating policies to alleviate haze pollution by policymakers in the Yellow River Basin.
 
-指导老师:赵宏波<br/>
-成员: 谷天顺/贾泽婷/徐晓曼/等<br/>
-河南大学黄河文明与可持续发展研究中心
+[查看文献](https:// doi.org/10.3390/rs14112643)
