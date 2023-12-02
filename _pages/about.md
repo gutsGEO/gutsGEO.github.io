@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I'm Gu Tianshun, currently pursuing my master's degree form [the Key Research Institute of Yellow River Civilization and Sustainable Development](https://yrcsd.henu.edu.cn/), [Henan University](https://www.henu.edu.cn/). I am a third-year graduate student majoring in geography, focusing on research related to land use, flood risk, and urban resilience. Inspired by my academic pursuits, I have decided to establish my academic homepage. I am particularly interested in the exploration of spatiotemporal big data mining and the interpretability of machine learning models. I welcome fellow researchers in these areas to engage in discussions and collaborations.
+Hello, I'm Gu Tianshun, currently pursuing my master's degree form [the Key Research Institute of Yellow River Civilization and Sustainable Development](https://yrcsd.henu.edu.cn/), [Henan University](https://www.henu.edu.cn/). I am a third-year graduate student majoring in geography, focusing on research related to land use, flood risk, and urban resilience. Inspired by my academic pursuits, I have decided to establish my academic homepage. I am particularly interested in the exploration of spatiotemporal big data mining and the interpretability of machine learning models. Welcome fellow researchers in these areas to engage in discussions and collaborations！
 
 My academic background
 ======
@@ -18,7 +18,7 @@ I completed my undergraduate studies in Geography at Tangshan Normal University 
 My research experience
 ======
 
-During my undergraduate studies, my focus was on quantitative comparative research, leading to interesting conclusions. Additionally, I discovered the interdisciplinary nature of geography, incorporating elements from various disciplines. This understanding enhanced my ability to approach problems more rationally and comprehensively. Throughout this process, I developed an appreciation for the allure of scientific research, finding joy in its logical, scientific, and captivating aspects. This enlightenment motivated me to further advance my studies in this field.
+During my graduate studies, my primary focus has been on researching topics related to land use change, flood risk, and urban resilience. With guidance from my supervisor, I delved into extensive literature on "land use change" and "urban flood risk," building a robust knowledge base in these domains. Simultaneously, my research has equipped me with a solid foundation in the empirical application of machine learning models.Throughout my master's degree, I conducted research that involved handling large datasets, including Points of Interest (POI), street scenes, and mobile signaling. This experience not only enhanced my understanding of big data processing but also allowed me to apply machine learning models effectively in practical scenarios.
 
 My knowledge community
 ------
@@ -27,5 +27,3 @@ I have also founded a WeChat official account named [城市地理之光（Urban 
 ①Paper Analysis: This section comprises personal reflections on research papers, essentially serving as my post-reading thoughts. Additionally, it includes recommendations for excellent research papers, often sourced from others, and I am responsible for reposting.
 ②Model and Method Sharing: In this section, I share interesting models and methods that I come across and find intriguing.
 ③Professional Learning Popularization: This section involves sharing foundational and significant content that I personally find important during my learning process. It serves as an opportunity to review and learn anew, while also sharing knowledge with a wider audience.
-
-Feel free to explore the content and engage with the community!
